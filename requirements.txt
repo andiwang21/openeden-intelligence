@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+firecrawl-py
+openai
+python-dotenv
+networkx
+matplotlib

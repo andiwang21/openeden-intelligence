@@ -1,0 +1,35 @@
+{
+    "exchange": "Bybit",
+    "exchange_tier": 1,
+    "product_name": "XAUT",
+    "product_status": "live",
+    "category": "Gold",
+    "subcategory": "",
+    "apy": 2.83,
+    "tvl": null,
+    "aum": null,
+    "yield_stack": {
+        "distribution": "Bybit",
+        "curator": "",
+        "allocator": "",
+        "infrastructure": [
+            "Bybit x XAUE Protocol"
+        ],
+        "custody": [],
+        "collateral": [
+            "XAUT"
+        ],
+        "yield_source": [
+            "Fixed APR"
+        ],
+        "reward_layer": []
+    },
+    "partnerships": [
+        "XAUE Protocol"
+    ],
+    "campaigns": [],
+    "integrations": [],
+    "openeden_fit": [],
+    "data_source": "pipeline",
+    "last_updated": "2026-11-02"
+}

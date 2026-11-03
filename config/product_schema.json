@@ -1,0 +1,89 @@
+{
+  "exchange": "",
+
+  "exchange_tier": 1,
+
+  "product_name": "",
+
+  "product_status": "live",
+
+  "category": "",
+
+  "subcategory": "",
+
+  "apy": null,
+
+  "tvl": null,
+
+  "aum": null,
+
+  "currency": "USD",
+
+  "launch_date": "",
+
+  "yield_stack": {
+
+    "distribution": "",
+
+    "curator": "",
+
+    "allocator": "",
+
+    "infrastructure": [],
+
+    "custody": [],
+
+    "collateral": [],
+
+    "yield_source": [],
+
+    "reward_layer": []
+  },
+
+  "partnerships": [],
+
+  "campaigns": [],
+
+  "integrations": [],
+
+  "institutional_features": {
+
+    "off_exchange_collateral": false,
+
+    "prime_broker_ready": false,
+
+    "institutional_custody": false,
+
+    "rwa_support": false
+  },
+
+  "competitive_signals": {
+
+    "structured_products": false,
+
+    "treasury_products": false,
+
+    "private_credit": false,
+
+    "gold_products": false,
+
+    "quant_products": false
+  },
+
+  "openeden_fit": [],
+
+  "gtm": {
+
+    "priority_score": 0,
+
+    "recommended_products": [],
+
+    "recommended_pitch": "",
+
+    "key_contacts": []
+  },
+
+  "data_source": "",
+
+  "last_updated": ""
+}

@@ -1,0 +1,33 @@
+{
+    "exchange": "Bybit",
+    "exchange_tier": 1,
+    "product_name": "USDe",
+    "product_status": "live",
+    "category": "Yield_Bearing_Stablecoin",
+    "subcategory": "",
+    "apy": 5.0,
+    "tvl": null,
+    "aum": null,
+    "yield_stack": {
+        "distribution": "Bybit",
+        "curator": "",
+        "allocator": "",
+        "infrastructure": [
+            "Bybit"
+        ],
+        "custody": [],
+        "collateral": [
+            "USDe"
+        ],
+        "yield_source": [
+            "HODL"
+        ],
+        "reward_layer": []
+    },
+    "partnerships": [],
+    "campaigns": [],
+    "integrations": [],
+    "openeden_fit": [],
+    "data_source": "pipeline",
+    "last_updated": "2026-11-02"
+}

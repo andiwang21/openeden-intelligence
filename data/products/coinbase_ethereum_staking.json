@@ -1,0 +1,33 @@
+{
+    "exchange": "Coinbase",
+    "exchange_tier": 1,
+    "product_name": "Ethereum Staking",
+    "product_status": "live",
+    "category": "Staking",
+    "subcategory": "",
+    "apy": 2.43,
+    "tvl": null,
+    "aum": null,
+    "yield_stack": {
+        "distribution": "Coinbase",
+        "curator": "",
+        "allocator": "",
+        "infrastructure": [
+            "Coinbase"
+        ],
+        "custody": [],
+        "collateral": [
+            "ETH"
+        ],
+        "yield_source": [
+            "Ethereum protocol rewards"
+        ],
+        "reward_layer": []
+    },
+    "partnerships": [],
+    "campaigns": [],
+    "integrations": [],
+    "openeden_fit": [],
+    "data_source": "pipeline",
+    "last_updated": "2026-11-02"
+}

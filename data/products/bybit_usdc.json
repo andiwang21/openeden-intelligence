@@ -1,0 +1,35 @@
+{
+    "exchange": "Bybit",
+    "exchange_tier": 1,
+    "product_name": "USDC",
+    "product_status": "live",
+    "category": "Yield_Bearing_Stablecoin",
+    "subcategory": "",
+    "apy": 6.9,
+    "tvl": null,
+    "aum": null,
+    "yield_stack": {
+        "distribution": "Bybit",
+        "curator": "",
+        "allocator": "",
+        "infrastructure": [
+            "Mantle Vault"
+        ],
+        "custody": [],
+        "collateral": [
+            "USDC"
+        ],
+        "yield_source": [
+            "Vault"
+        ],
+        "reward_layer": []
+    },
+    "partnerships": [
+        "Mantle"
+    ],
+    "campaigns": [],
+    "integrations": [],
+    "openeden_fit": [],
+    "data_source": "pipeline",
+    "last_updated": "2026-11-02"
+}

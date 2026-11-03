@@ -1,0 +1,12 @@
+[
+  {"name":"Coinbase","tier":1},
+  {"name":"Kraken","tier":1},
+  {"name":"Robinhood","tier":1},
+  {"name":"Binance","tier":1},
+  {"name":"OKX","tier":1},
+  {"name":"Gate","tier":2},
+  {"name":"KuCoin","tier":2},
+  {"name":"HashKey","tier":2},
+  {"name":"Bybit","tier":1},
+  {"name":"Bitget","tier":2}
+]

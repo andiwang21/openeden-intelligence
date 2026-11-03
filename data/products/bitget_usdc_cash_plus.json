@@ -1,0 +1,29 @@
+{
+    "exchange": "Bitget",
+    "exchange_tier": 1,
+    "product_name": "USDC Cash Plus",
+    "product_status": "live",
+    "category": "Lending",
+    "subcategory": "",
+    "apy": 4.0,
+    "tvl": null,
+    "aum": null,
+    "yield_stack": {
+        "distribution": "Bitget",
+        "curator": "",
+        "allocator": "",
+        "infrastructure": [
+            ""
+        ],
+        "custody": [],
+        "collateral": [],
+        "yield_source": [],
+        "reward_layer": []
+    },
+    "partnerships": [],
+    "campaigns": [],
+    "integrations": [],
+    "openeden_fit": [],
+    "data_source": "pipeline",
+    "last_updated": "2026-11-02"
+}

@@ -1,0 +1,33 @@
+{
+    "exchange": "OpenEden",
+    "exchange_tier": 1,
+    "product_name": "T-Bill Vault",
+    "product_status": "live",
+    "category": "Treasury",
+    "subcategory": "",
+    "apy": 5.2,
+    "tvl": null,
+    "aum": null,
+    "yield_stack": {
+        "distribution": "OpenEden",
+        "curator": "",
+        "allocator": "",
+        "infrastructure": [
+            "Ethereum"
+        ],
+        "custody": [],
+        "collateral": [
+            "USDC"
+        ],
+        "yield_source": [
+            "US Treasury Bills"
+        ],
+        "reward_layer": []
+    },
+    "partnerships": [],
+    "campaigns": [],
+    "integrations": [],
+    "openeden_fit": [],
+    "data_source": "pipeline",
+    "last_updated": "2026-11-02"
+}

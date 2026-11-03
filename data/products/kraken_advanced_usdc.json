@@ -1,0 +1,129 @@
+{
+  "exchange": "Kraken",
+
+  "exchange_tier": 1,
+
+  "product_name": "Advanced Strategies USDC",
+
+  "product_status": "live",
+
+  "category": "Private_Credit",
+
+  "subcategory": "Institutional Credit Vault",
+
+  "apy": 5.2,
+
+  "tvl": null,
+
+  "aum": null,
+
+  "currency": "USD",
+
+  "launch_date": "",
+
+  "yield_stack": {
+
+    "distribution": "Kraken",
+
+    "curator": "Sentora",
+
+    "allocator": "Sentora",
+
+    "infrastructure": [
+      "Veda",
+      "Morpho"
+    ],
+
+    "custody": [],
+
+    "collateral": [
+      "PRIME",
+      "PST"
+    ],
+
+    "yield_source": [
+      "Home Equity Credit",
+      "Payment Receivables",
+      "Leverage Loops"
+    ],
+
+    "reward_layer": [
+      "Merkl"
+    ]
+  },
+
+  "partnerships": [
+    "Sentora",
+    "Morpho",
+    "Veda"
+  ],
+
+  "campaigns": [],
+
+  "integrations": [
+    "Morpho",
+    "Veda"
+  ],
+
+  "institutional_features": {
+
+    "off_exchange_collateral": false,
+
+    "prime_broker_ready": true,
+
+    "institutional_custody": false,
+
+    "rwa_support": true
+  },
+
+  "competitive_signals": {
+
+    "structured_products": false,
+
+    "treasury_products": false,
+
+    "private_credit": true,
+
+    "gold_products": false,
+
+    "quant_products": false
+  },
+
+  "openeden_fit": [
+    "HYBOND",
+    "QIS"
+  ],
+
+  "openeden_relevance": {
+
+    "tbill": 30,
+
+    "cusdo": 40,
+
+    "hybond": 95,
+
+    "fcn": 10,
+
+    "gold_plus": 20,
+
+    "qis": 90
+  },
+
+  "gtm": {
+
+    "priority_score": 70,
+
+    "recommended_products": [
+      "HYBOND",
+      "QIS"
+    ],
+
+    "recommended_pitch": "Institutional private credit diversification",
+
+    "key_contacts": []
+  },
+
+  "data_source": "manual",
+
+  "last_updated": "2026-11-02"
+}

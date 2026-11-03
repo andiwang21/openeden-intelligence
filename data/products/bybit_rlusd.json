@@ -1,0 +1,33 @@
+{
+    "exchange": "Bybit",
+    "exchange_tier": 1,
+    "product_name": "RLUSD",
+    "product_status": "live",
+    "category": "Yield_Bearing_Stablecoin",
+    "subcategory": "",
+    "apy": 3.5,
+    "tvl": null,
+    "aum": null,
+    "yield_stack": {
+        "distribution": "Bybit",
+        "curator": "",
+        "allocator": "",
+        "infrastructure": [
+            "Bybit"
+        ],
+        "custody": [],
+        "collateral": [
+            "RLUSD"
+        ],
+        "yield_source": [
+            "Hold & Earn"
+        ],
+        "reward_layer": []
+    },
+    "partnerships": [],
+    "campaigns": [],
+    "integrations": [],
+    "openeden_fit": [],
+    "data_source": "pipeline",
+    "last_updated": "2026-11-02"
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "coinbase",
+        "url": "https://www.coinbase.com/earn"
+    },
+    {
+        "name": "kraken",
+        "url": "https://www.kraken.com/features/staking-rewards"
+    },
+    {
+        "name": "okx",
+        "url": "https://www.okx.com/earn"
+    },
+    {
+        "name": "bybit",
+        "url": "https://www.bybit.com/en/earn"
+    },
+    {
+        "name": "bitget",
+        "url": "https://www.bitget.com/earn"
+    }
+]

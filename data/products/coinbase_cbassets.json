@@ -1,0 +1,139 @@
+{
+  "exchange": "Coinbase",
+
+  "exchange_tier": 1,
+
+  "product_name": "cbAssets Vault",
+
+  "product_status": "live",
+
+  "category": "Lending",
+
+  "subcategory": "Crypto Collateral Lending",
+
+  "apy": 6.0,
+
+  "tvl": null,
+
+  "aum": null,
+
+  "currency": "USD",
+
+  "launch_date": "",
+
+  "yield_stack": {
+
+    "distribution": "Coinbase",
+
+    "curator": "Clearstar",
+
+    "allocator": "Clearstar",
+
+    "infrastructure": [
+      "Base",
+      "Morpho"
+    ],
+
+    "custody": [],
+
+    "collateral": [
+      "SOL",
+      "JitoSOL",
+      "cbBTC",
+      "cbADA",
+      "cbXRP"
+    ],
+
+    "yield_source": [
+      "Collateralized Crypto Lending"
+    ],
+
+    "reward_layer": [
+      "USDC Incentives"
+    ]
+  },
+
+  "partnerships": [
+    "Morpho",
+    "Clearstar"
+  ],
+
+  "campaigns": [],
+
+  "integrations": [
+    "Base"
+  ],
+
+  "institutional_features": {
+
+    "off_exchange_collateral": true,
+
+    "prime_broker_ready": true,
+
+    "institutional_custody": false,
+
+    "rwa_support": false
+  },
+
+  "competitive_signals": {
+
+    "structured_products": false,
+
+    "treasury_products": false,
+
+    "private_credit": false,
+
+    "gold_products": false,
+
+    "quant_products": false
+  },
+
+  "openeden_fit": [
+    "TBILL",
+    "cUSDO"
+  ],
+
+  "openeden_relevance": {
+
+    "tbill": 90,
+
+    "cusdo": 95,
+
+    "hybond": 20,
+
+    "fcn": 10,
+
+    "gold_plus": 10,
+
+    "qis": 10
+  },
+
+  "gtm": {
+
+    "priority_score": 75,
+
+    "recommended_products": [
+      "TBILL",
+      "cUSDO"
+    ],
+
+    "recommended_pitch": "Yield bearing treasury collateral",
+
+    "key_contacts": []
+  },
+
+  "data_source": "manual",
+
+  "last_updated": "2026-11-02",
+
+  "monitoring": {
+
+    "source_url": "",
+
+    "announcement_url": "",
+
+    "last_verified": "",
+
+    "active": true
+  }
+}

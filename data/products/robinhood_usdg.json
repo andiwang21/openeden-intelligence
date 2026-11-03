@@ -1,0 +1,128 @@
+{
+  "exchange": "Robinhood",
+
+  "exchange_tier": 1,
+
+  "product_name": "USDG Earn",
+
+  "product_status": "live",
+
+  "category": "Yield_Bearing_Stablecoin",
+
+  "subcategory": "Stablecoin Yield Vault",
+
+  "apy": 7.0,
+
+  "tvl": null,
+
+  "aum": null,
+
+  "currency": "USD",
+
+  "launch_date": "",
+
+  "yield_stack": {
+
+    "distribution": "Robinhood",
+
+    "curator": "Steakhouse",
+
+    "allocator": "Steakhouse",
+
+    "infrastructure": [
+      "Morpho"
+    ],
+
+    "custody": [],
+
+    "collateral": [
+      "USDe",
+      "syrupUSDG",
+      "mGLO"
+    ],
+
+    "yield_source": [
+      "Crypto Lending",
+      "USDe Carry",
+      "Maple Lending"
+    ],
+
+    "reward_layer": [
+      "Merkl"
+    ]
+  },
+
+  "partnerships": [
+    "Steakhouse",
+    "Morpho",
+    "Merkl"
+  ],
+
+  "campaigns": [],
+
+  "integrations": [
+    "Morpho"
+  ],
+
+  "institutional_features": {
+
+    "off_exchange_collateral": false,
+
+    "prime_broker_ready": false,
+
+    "institutional_custody": false,
+
+    "rwa_support": true
+  },
+
+  "competitive_signals": {
+
+    "structured_products": false,
+
+    "treasury_products": false,
+
+    "private_credit": false,
+
+    "gold_products": false,
+
+    "quant_products": false
+  },
+
+  "openeden_fit": [
+    "TBILL",
+    "cUSDO"
+  ],
+
+  "openeden_relevance": {
+
+    "tbill": 90,
+
+    "cusdo": 95,
+
+    "hybond": 10,
+
+    "fcn": 5,
+
+    "gold_plus": 5,
+
+    "qis": 5
+  },
+
+  "gtm": {
+
+    "priority_score": 90,
+
+    "recommended_products": [
+      "TBILL",
+      "cUSDO"
+    ],
+
+    "recommended_pitch": "Yield-bearing treasury collateral",
+
+    "key_contacts": []
+  },
+
+  "data_source": "manual",
+
+  "last_updated": "2026-11-02"
+}
